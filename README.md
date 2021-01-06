@@ -1,0 +1,2 @@
+# Wybory
+Small java project
